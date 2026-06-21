@@ -74,3 +74,42 @@ How far is Araku Valley from Vizag?
 -Structured tourism data storage
 -Efficient querying
 -Scalable data management
+
+
+🏗️ System Architecture
+User
+ │
+ ▼
+Frontend (React + Vite)
+ │
+ ▼
+Backend (Flask)
+ │
+ ▼
+Context Resolution Engine
+ │
+ ▼
+Agent Router
+ ├── Tourism Agent
+ ├── Recommendation Agent
+ ├── Memory Agent
+ ├── Location Agent
+ └── Retrieval Agent
+ │
+ ▼
+Memory Layer
+ │
+ ▼
+Redis Cache
+ │
+ ▼
+PostgreSQL Database
+ │
+ ▼
+Vector Database
+ │
+ ▼
+Groq LLM
+ │
+ ▼
+Response Generation
