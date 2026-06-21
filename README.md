@@ -208,7 +208,7 @@ AP-Tourism-Agentic-RAG
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/AP-Tourism-Agentic-RAG.git
+git clone https://github.com/adarshvarma001/AP-Tourism-Agentic-RAG.git
 
 cd AP-Tourism-Agentic-RAG
 ```
