@@ -1,0 +1,68 @@
+# ==========================
+# Python Backend
+# ==========================
+Backend/env/
+Backend/__pycache__/
+Backend/**/*.pyc
+Backend/**/*.pyo
+Backend/**/*.pyd
+
+# Environment variables
+Frontend/.env
+
+# VS Code
+.vscode/
+
+# ==========================
+# Frontend (React/Vite)
+# ==========================
+Frontend/node_modules/
+Frontend/dist/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ==========================
+# Build & Cache
+# ==========================
+.cache/
+temp/
+tmp/
+
+# ==========================
+# OS Files
+# ==========================
+.DS_Store
+Thumbs.db
+
+# ==========================
+# Python Testing
+# ==========================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ==========================
+# Jupyter
+# ==========================
+.ipynb_checkpoints/
+
+# ==========================
+# Model Files (Optional)
+# Uncomment if you have large models
+# ==========================
+*.pkl
+*.joblib
+*.pt
+*.pth
+*.onnx
+
+
+# ==========================
+# Output Files
+# ==========================
+Backend/outputs/*
+!Backend/outputs/.gitkeep

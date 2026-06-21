@@ -1,0 +1,133 @@
+district,month,year,domestic_visitors,foreign_visitors,total_visitors,source
+Visakhapatnam,July,2009,446732,130,446862,AP Tourism Survey 2009-2010
+Visakhapatnam,August,2009,398785,467,399252,AP Tourism Survey 2009-2010
+Visakhapatnam,September,2009,383672,230,383902,AP Tourism Survey 2009-2010
+Visakhapatnam,October,2009,530116,571,530687,AP Tourism Survey 2009-2010
+Visakhapatnam,November,2009,608481,599,609080,AP Tourism Survey 2009-2010
+Visakhapatnam,December,2009,411055,778,411833,AP Tourism Survey 2009-2010
+Visakhapatnam,January,2010,404374,102,404476,AP Tourism Survey 2009-2010
+Visakhapatnam,February,2010,367438,55,367493,AP Tourism Survey 2009-2010
+Visakhapatnam,March,2010,566345,30,566375,AP Tourism Survey 2009-2010
+Visakhapatnam,April,2010,567861,20,567881,AP Tourism Survey 2009-2010
+Visakhapatnam,May,2010,546625,35,546660,AP Tourism Survey 2009-2010
+Visakhapatnam,June,2010,499806,11,499817,AP Tourism Survey 2009-2010
+East Godavari,July,2009,115706,130,115836,AP Tourism Survey 2009-2010
+East Godavari,August,2009,215083,467,215550,AP Tourism Survey 2009-2010
+East Godavari,September,2009,248402,230,248632,AP Tourism Survey 2009-2010
+East Godavari,October,2009,208946,571,209517,AP Tourism Survey 2009-2010
+East Godavari,November,2009,221544,599,222143,AP Tourism Survey 2009-2010
+East Godavari,December,2009,243168,778,243947,AP Tourism Survey 2009-2010
+East Godavari,January,2010,273709,102,273811,AP Tourism Survey 2009-2010
+East Godavari,February,2010,237557,55,237612,AP Tourism Survey 2009-2010
+East Godavari,March,2010,130845,30,130875,AP Tourism Survey 2009-2010
+East Godavari,April,2010,281627,20,281647,AP Tourism Survey 2009-2010
+East Godavari,May,2010,288036,35,288071,AP Tourism Survey 2009-2010
+East Godavari,June,2010,276839,11,276850,AP Tourism Survey 2009-2010
+West Godavari,July,2009,54203,7,54210,AP Tourism Survey 2009-2010
+West Godavari,August,2009,141514,0,141514,AP Tourism Survey 2009-2010
+West Godavari,September,2009,144097,94,144191,AP Tourism Survey 2009-2010
+West Godavari,October,2009,149727,65,149792,AP Tourism Survey 2009-2010
+West Godavari,November,2009,151330,75,151405,AP Tourism Survey 2009-2010
+West Godavari,December,2009,180586,834,181419,AP Tourism Survey 2009-2010
+West Godavari,January,2010,198134,49,198183,AP Tourism Survey 2009-2010
+West Godavari,February,2010,129896,2,129898,AP Tourism Survey 2009-2010
+West Godavari,March,2010,112367,3,112370,AP Tourism Survey 2009-2010
+West Godavari,April,2010,208987,0,208987,AP Tourism Survey 2009-2010
+West Godavari,May,2010,214830,0,214830,AP Tourism Survey 2009-2010
+West Godavari,June,2010,170320,0,170320,AP Tourism Survey 2009-2010
+Krishna,July,2009,187707,16,187722,AP Tourism Survey 2009-2010
+Krishna,August,2009,164052,0,164052,AP Tourism Survey 2009-2010
+Krishna,September,2009,145974,84,146058,AP Tourism Survey 2009-2010
+Krishna,October,2009,232382,479,232861,AP Tourism Survey 2009-2010
+Krishna,November,2009,191117,509,191626,AP Tourism Survey 2009-2010
+Krishna,December,2009,217641,885,218526,AP Tourism Survey 2009-2010
+Krishna,January,2010,212061,971,213032,AP Tourism Survey 2009-2010
+Krishna,February,2010,180219,68,180287,AP Tourism Survey 2009-2010
+Krishna,March,2010,173261,49,173310,AP Tourism Survey 2009-2010
+Krishna,April,2010,155794,18,155813,AP Tourism Survey 2009-2010
+Krishna,May,2010,170629,13,170642,AP Tourism Survey 2009-2010
+Krishna,June,2010,164896,8,164904,AP Tourism Survey 2009-2010
+Guntur,July,2009,30499,59,30558,AP Tourism Survey 2009-2010
+Guntur,August,2009,48987,44,49031,AP Tourism Survey 2009-2010
+Guntur,September,2009,52191,13,52204,AP Tourism Survey 2009-2010
+Guntur,October,2009,120651,18,120669,AP Tourism Survey 2009-2010
+Guntur,November,2009,124210,30,124240,AP Tourism Survey 2009-2010
+Guntur,December,2009,135672,59,135731,AP Tourism Survey 2009-2010
+Guntur,January,2010,140817,53,140870,AP Tourism Survey 2009-2010
+Guntur,February,2010,91695,52,91747,AP Tourism Survey 2009-2010
+Guntur,March,2010,82891,47,82938,AP Tourism Survey 2009-2010
+Guntur,April,2010,80777,2,80780,AP Tourism Survey 2009-2010
+Guntur,May,2010,83830,5,83834,AP Tourism Survey 2009-2010
+Guntur,June,2010,82926,10,82935,AP Tourism Survey 2009-2010
+Prakasam,July,2009,28196,0,28196,AP Tourism Survey 2009-2010
+Prakasam,August,2009,14011,0,14011,AP Tourism Survey 2009-2010
+Prakasam,September,2009,12486,7,12493,AP Tourism Survey 2009-2010
+Prakasam,October,2009,22944,11,22954,AP Tourism Survey 2009-2010
+Prakasam,November,2009,17769,39,17808,AP Tourism Survey 2009-2010
+Prakasam,December,2009,19518,39,19557,AP Tourism Survey 2009-2010
+Prakasam,January,2010,19343,10,19353,AP Tourism Survey 2009-2010
+Prakasam,February,2010,17019,0,17019,AP Tourism Survey 2009-2010
+Prakasam,March,2010,25323,0,25323,AP Tourism Survey 2009-2010
+Prakasam,April,2010,27641,0,27641,AP Tourism Survey 2009-2010
+Prakasam,May,2010,26674,0,26674,AP Tourism Survey 2009-2010
+Prakasam,June,2010,21454,0,21454,AP Tourism Survey 2009-2010
+Nellore,July,2009,39808,42,39850,AP Tourism Survey 2009-2010
+Nellore,August,2009,32615,50,32665,AP Tourism Survey 2009-2010
+Nellore,September,2009,35795,70,35866,AP Tourism Survey 2009-2010
+Nellore,October,2009,66420,30,66450,AP Tourism Survey 2009-2010
+Nellore,November,2009,50258,38,50296,AP Tourism Survey 2009-2010
+Nellore,December,2009,72669,28,72697,AP Tourism Survey 2009-2010
+Nellore,January,2010,100187,2,100189,AP Tourism Survey 2009-2010
+Nellore,February,2010,83159,88,83247,AP Tourism Survey 2009-2010
+Nellore,March,2010,66891,24,66914,AP Tourism Survey 2009-2010
+Nellore,April,2010,71268,4,71272,AP Tourism Survey 2009-2010
+Nellore,May,2010,66249,2,66250,AP Tourism Survey 2009-2010
+Nellore,June,2010,65372,0,65372,AP Tourism Survey 2009-2010
+Kadapa,July,2009,31406,0,31406,AP Tourism Survey 2009-2010
+Kadapa,August,2009,52669,0,52669,AP Tourism Survey 2009-2010
+Kadapa,September,2009,61050,11,61062,AP Tourism Survey 2009-2010
+Kadapa,October,2009,155936,40,155976,AP Tourism Survey 2009-2010
+Kadapa,November,2009,157388,32,157420,AP Tourism Survey 2009-2010
+Kadapa,December,2009,145590,0,145590,AP Tourism Survey 2009-2010
+Kadapa,January,2010,151855,0,151855,AP Tourism Survey 2009-2010
+Kadapa,February,2010,46825,29,46855,AP Tourism Survey 2009-2010
+Kadapa,March,2010,41767,16,41783,AP Tourism Survey 2009-2010
+Kadapa,April,2010,30103,3,30106,AP Tourism Survey 2009-2010
+Kadapa,May,2010,28921,0,28921,AP Tourism Survey 2009-2010
+Kadapa,June,2010,31171,0,31171,AP Tourism Survey 2009-2010
+Kurnool,July,2009,11046,9,11055,AP Tourism Survey 2009-2010
+Kurnool,August,2009,70364,0,70364,AP Tourism Survey 2009-2010
+Kurnool,September,2009,73230,23,73253,AP Tourism Survey 2009-2010
+Kurnool,October,2009,73718,10,73728,AP Tourism Survey 2009-2010
+Kurnool,November,2009,70851,12,70863,AP Tourism Survey 2009-2010
+Kurnool,December,2009,88334,164,88498,AP Tourism Survey 2009-2010
+Kurnool,January,2010,94275,153,94428,AP Tourism Survey 2009-2010
+Kurnool,February,2010,53458,22,53480,AP Tourism Survey 2009-2010
+Kurnool,March,2010,61303,14,61317,AP Tourism Survey 2009-2010
+Kurnool,April,2010,51888,5,51893,AP Tourism Survey 2009-2010
+Kurnool,May,2010,58341,1,58342,AP Tourism Survey 2009-2010
+Kurnool,June,2010,61170,0,61170,AP Tourism Survey 2009-2010
+Anantapur,July,2009,110146,0,110146,AP Tourism Survey 2009-2010
+Anantapur,August,2009,70364,0,70364,AP Tourism Survey 2009-2010
+Anantapur,September,2009,73230,170,73400,AP Tourism Survey 2009-2010
+Anantapur,October,2009,73708,650,74358,AP Tourism Survey 2009-2010
+Anantapur,November,2009,70839,705,71544,AP Tourism Survey 2009-2010
+Anantapur,December,2009,88170,734,88904,AP Tourism Survey 2009-2010
+Anantapur,January,2010,94122,624,94746,AP Tourism Survey 2009-2010
+Anantapur,February,2010,53436,367,53803,AP Tourism Survey 2009-2010
+Anantapur,March,2010,61290,459,61749,AP Tourism Survey 2009-2010
+Anantapur,April,2010,51883,587,52470,AP Tourism Survey 2009-2010
+Anantapur,May,2010,58340,821,59161,AP Tourism Survey 2009-2010
+Anantapur,June,2010,61170,895,62065,AP Tourism Survey 2009-2010
+Chittoor,July,2009,2840253,3097,2843350,AP Tourism Survey 2009-2010
+Chittoor,August,2009,3403011,2675,3405687,AP Tourism Survey 2009-2010
+Chittoor,September,2009,3242226,1292,3243518,AP Tourism Survey 2009-2010
+Chittoor,October,2009,4532248,2525,4534773,AP Tourism Survey 2009-2010
+Chittoor,November,2009,3631183,5200,3636383,AP Tourism Survey 2009-2010
+Chittoor,December,2009,3242283,4488,3246771,AP Tourism Survey 2009-2010
+Chittoor,January,2010,2838547,3381,2841928,AP Tourism Survey 2009-2010
+Chittoor,February,2010,2686497,2385,2688882,AP Tourism Survey 2009-2010
+Chittoor,March,2010,2653170,1590,2654760,AP Tourism Survey 2009-2010
+Chittoor,April,2010,3069840,142,3069983,AP Tourism Survey 2009-2010
+Chittoor,May,2010,3069615,91,3069706,AP Tourism Survey 2009-2010
+Chittoor,June,2010,2906023,78,2906701,AP Tourism Survey 2009-2010
